@@ -54,6 +54,7 @@ After the User has been authenticated he or she can start sending messages to ot
 | :--------------: | :----------------------------------------- |
 |      React       | _Front-end Library._ |
 |   React Router   | _Routing for React._ |
+|ActionCableProvide| _This package provides an ActionCable context provider._ |
 | React SemanticUI | _Front-end UI Framework._ |
 |      Axios       | _Promise based HTTP client for the browser and node.js._ |
 |      Rails       | _Web application development framework._ |
