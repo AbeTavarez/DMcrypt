@@ -93,6 +93,7 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 > Structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. 
 
+[Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591712044/Screen_Shot_2020-06-09_at_10.13.54_AM_don3fi.png)
 #### Component Hierarchy
 
 > React components and the data architecture of app. Expected your directory/file tree. 
