@@ -145,8 +145,9 @@ src
 ### Server (Back End)
 
 #### ERD Model
+![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709353/Screen_Shot_2020-06-09_at_9.29.04_AM_seq46h.png)
 
-> Use this section to display an image of a computer generated ERD model.
+> ERD
 
 <br>
 
