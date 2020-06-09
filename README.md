@@ -78,7 +78,7 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 - Desktop Hero
 
-![Dummy Link](url)
+![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709132/Screen_Shot_2020-06-07_at_10.43.20_PM_wqisxj.png)
 
 - Resource Index
 
