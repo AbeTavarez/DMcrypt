@@ -73,11 +73,14 @@ Email needs to be confirm by the user before signing-in. After the user has been
 - Wireframe
 ![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591708968/Screen_Shot_2020-06-09_at_9.20.35_AM_cwfsgv.png)
 
+
 - Desktop Landing
 ![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709619/Screen_Shot_2020-06-09_at_9.33.19_AM_odi00j.png)
 
+
 - App Flowchart
 ![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709132/Screen_Shot_2020-06-07_at_10.43.20_PM_wqisxj.png)
+
 
 - Resource Show
 ![Dummy Link](url)
