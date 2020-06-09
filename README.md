@@ -1,6 +1,6 @@
 # DMcript README <!-- omit in toc -->
 
-> The Project Planning section **should be completed** for your project pitch with instructors.
+> Project Planning section:
 >
 >
 
@@ -38,10 +38,10 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 ### Goals
 
-- _Lorem ipsum, dolor sit amet,_
-- _consectetur adipiscing elit._
-- _Phasellus dapibus fermentum risus vitae bibendum._
-- _Integer vel ipsum mollis odio sollicitudin ornare eu vel ex._
+- _Create back-end using Ruby On Rails._
+- _Create front-end using React JS._
+- _Create models for the database._
+- _Create Auth for the users._
 - _etc._
 
 <br>
@@ -52,11 +52,9 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
-|      React       | _Lorem ipsum dolor sit amet, consectetur._ |
-|   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
-| React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
-|     Express      | _Lorem ipsum dolor sit amet, consectetur._ |
-|  Express Router  | _Lorem ipsum dolor sit amet, consectetur._ |
+|      React       | _Front-end Library._ |
+|   React Router   | _Routing for React._ |
+| React SemanticUI | _Front-end UI Framework._ |
 |      Axios       | _Lorem ipsum dolor sit amet, consectetur._ |
 |      Rails       | _Lorem ipsum dolor sit amet, consectetur._ |
 |    PostgreSQL    | _Lorem ipsum dolor sit amet, consectetur._ |
@@ -72,7 +70,7 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 > Use the Wireframes section to display desktop, tablet and mobile views.
 
-![Dummy Link](url)
+![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591708968/Screen_Shot_2020-06-09_at_9.20.35_AM_cwfsgv.png)
 
 - Desktop Landing
 
