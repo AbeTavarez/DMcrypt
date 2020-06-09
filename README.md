@@ -31,8 +31,8 @@ _**DMcrypt** is a Chat App web application build with privacy and security in mi
 
 ## MVP
 
-_**DMcrypt** Application would allow the user to sign-up using their personal email and password.
-Email needs to be confirm by the user before signing-in. After the user has been authenticated he or she can start sending messages to other users and will also be able to create private groups and invite friends to join the group chat._
+_**DMcrypt** Application allow the User to sign-up using their personal email and password.
+After the User has been authenticated he or she can start sending messages to other Users._
 
 <br>
 
