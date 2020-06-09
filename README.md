@@ -38,10 +38,10 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 ### Goals
 
-- _Create back-end using Ruby On Rails._
-- _Create front-end using React JS._
-- _Create models for the database._
-- _Create Auth for the users._
+- _Create back-end Full CRUD using Ruby On Rails._
+- _Create front-end Full CRUD using ReactJS._
+- _Style front-end using CSS Grid, and Flexbox._
+- _Implement Authentication for the Users._
 - _etc._
 
 <br>
