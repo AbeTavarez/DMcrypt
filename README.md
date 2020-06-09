@@ -72,11 +72,11 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 ![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591708968/Screen_Shot_2020-06-09_at_9.20.35_AM_cwfsgv.png)
 
+- Wireframe
+
+![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709619/Screen_Shot_2020-06-09_at_9.33.19_AM_odi00j.png)
+
 - Desktop Landing
-
-![Dummy Link](url)
-
-- Desktop Hero
 
 ![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709132/Screen_Shot_2020-06-07_at_10.43.20_PM_wqisxj.png)
 
