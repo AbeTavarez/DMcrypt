@@ -42,7 +42,7 @@ After the User has been authenticated he or she can start sending messages to ot
 - _Create front-end Full CRUD using ReactJS._
 - _Style front-end using CSS Grid, Flexbox and Semantic UI._
 - _Implement Authentication for the Users._
-- _etc._
+- _._
 
 <br>
 
