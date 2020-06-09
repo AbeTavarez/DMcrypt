@@ -24,7 +24,7 @@
 
 ## Overview
 
-_**Project Title** is a Chat App web application build with privacy and security in mind. Sign-up with your e-mail and start sharing messages with your friends. Create group chats with your friends in a secure and private enviroment. This can be very useful when dealing with confidential information._
+_**DMcrypt** is a Chat App web application build with privacy and security in mind. Sign-up with your e-mail and start sharing messages with your friends. Create group chats with your friends in a secure and private enviroment. This can be very useful when dealing with confidential information._
   
 
 <br>
