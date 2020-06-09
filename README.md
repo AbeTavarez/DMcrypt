@@ -40,7 +40,7 @@ After the User has been authenticated he or she can start sending messages to ot
 
 - _Create back-end Full CRUD using Ruby On Rails._
 - _Create front-end Full CRUD using ReactJS._
-- _Style front-end using CSS Grid, and Flexbox._
+- _Style front-end using CSS Grid, Flexbox and Semantic UI._
 - _Implement Authentication for the Users._
 - _etc._
 
