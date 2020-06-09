@@ -48,7 +48,7 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 ### Libraries
 
-> Use this section to list all supporting libraries and dependencies, and their role in the project.
+> Supporting libraries and dependencies, and their role in the project.
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
@@ -68,27 +68,25 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 #### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views.
-
-![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591708968/Screen_Shot_2020-06-09_at_9.20.35_AM_cwfsgv.png)
+> Wireframes section to display desktop, tablet and mobile views.
 
 - Wireframe
-
-![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709619/Screen_Shot_2020-06-09_at_9.33.19_AM_odi00j.png)
+![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591708968/Screen_Shot_2020-06-09_at_9.20.35_AM_cwfsgv.png)
 
 - Desktop Landing
+![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709619/Screen_Shot_2020-06-09_at_9.33.19_AM_odi00j.png)
 
+
+- App Flowchart
 ![Dummy Link](https://res.cloudinary.com/abetavarez/image/upload/v1591709132/Screen_Shot_2020-06-07_at_10.43.20_PM_wqisxj.png)
 
-- Resource Index
-
-![Dummy Link](url)
-
 - Resource Show
-
 ![Dummy Link](url)
+
 
 - Tablet Resource Index
+![Dummy Link](url)
+
 
 ![Dummy Link](url)
 
@@ -96,11 +94,11 @@ Email needs to be confirm by the user before signing-in. After the user has been
 
 #### Component Tree
 
-> Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. 
+> Structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. 
 
 #### Component Hierarchy
 
-> Use this section to define your React components and the data architecture of your app. This should be a reflection of how you expect your directory/file tree to look like. 
+> React components and the data architecture of app. Expected your directory/file tree. 
 
 ``` structure
 
