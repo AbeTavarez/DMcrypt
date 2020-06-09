@@ -55,13 +55,13 @@ After the User has been authenticated he or she can start sending messages to ot
 |      React       | _Front-end Library._ |
 |   React Router   | _Routing for React._ |
 | React SemanticUI | _Front-end UI Framework._ |
-|      Axios       | _Lorem ipsum dolor sit amet, consectetur._ |
-|      Rails       | _Lorem ipsum dolor sit amet, consectetur._ |
-|    PostgreSQL    | _Lorem ipsum dolor sit amet, consectetur._ |
-|  JSON Web Token  | _Lorem ipsum dolor sit amet, consectetur._ |
-|     bcrypt       | _Lorem ipsum dolor sit amet, consectetur._ |
-|      CORS        | _Lorem ipsum dolor sit amet, consectetur._ |
-|   Action Cable   | _Websockets._ |
+|      Axios       | _Promise based HTTP client for the browser and node.js._ |
+|      Rails       | _Web application development framework._ |
+|    PostgreSQL    | _Open source object-relational database system._ |
+|  JSON Web Token  | _Secure way of transmitting information between parties as a JSON object._ |
+|     bcrypt       | _A library to help you hash passwords._ |
+|      CORS        | _Middleware that can be used to enable CORS with various options._ |
+|   Action Cable   | _Websockets integration._ |
 
 <br>
 
